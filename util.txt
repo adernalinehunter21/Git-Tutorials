@@ -1,1 +1,1 @@
-These are the utilities for version 1
+utilities for second version of my software
